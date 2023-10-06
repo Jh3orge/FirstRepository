@@ -1,2 +1,2 @@
 # FirstRepository
-Peacticing GitHub
+Practicing GitHub
